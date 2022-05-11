@@ -4,4 +4,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https://Sanket2004.github.io/Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/mod3_solution/index.html)
+# To see the output [CLICK HERE](https://sanket2004.github.io/Coursera-HTML-CSS-JavaScript-for-Web-Developers-/mod3_solution/index.html)
